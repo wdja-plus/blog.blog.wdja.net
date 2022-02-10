@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
       <loc>https://blog.blog.wdja.net/sitemap.html</loc>
-      <lastmod>2022-01-25</lastmod>
+      <lastmod>2022-02-10</lastmod>
       <changefreq>daily</changefreq>
       <priority>1</priority>
     </url>
     <url>
       <loc>https://blog.blog.wdja.net</loc>
-      <lastmod>2022-01-25</lastmod>
+      <lastmod>2022-02-10</lastmod>
       <changefreq>daily</changefreq>
       <priority>1</priority>
     </url>
     <url>
       <loc>https://blog.blog.wdja.net/list-0-0.html</loc>
-      <lastmod>2022-01-25</lastmod>
+      <lastmod>2022-02-10</lastmod>
       <changefreq>daily</changefreq>
       <priority>1</priority>
     </url>
     <url>
       <loc>https://blog.blog.wdja.net/list-0-0.html</loc>
-      <lastmod>2022-01-25</lastmod>
+      <lastmod>2022-02-10</lastmod>
       <changefreq>daily</changefreq>
       <priority>1</priority>
     </url>
@@ -44,18 +44,12 @@
     </url>
     <url>
       <loc>https://blog.blog.wdja.net/article/</loc>
-      <lastmod>2022-01-25</lastmod>
+      <lastmod>2022-02-10</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
     <url>
       <loc>https://blog.blog.wdja.net/article/detail-1.html</loc>
-      <lastmod>2021-11-24</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.6</priority>
-    </url>
-    <url>
-      <loc>https://blog.blog.wdja.net/article/detail-1-0.html</loc>
       <lastmod>2021-11-24</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.6</priority>
@@ -67,19 +61,7 @@
       <priority>0.6</priority>
     </url>
     <url>
-      <loc>https://blog.blog.wdja.net/article/detail-2-0.html</loc>
-      <lastmod>2021-01-24</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.6</priority>
-    </url>
-    <url>
       <loc>https://blog.blog.wdja.net/article/detail-3.html</loc>
-      <lastmod>2021-12-11</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.6</priority>
-    </url>
-    <url>
-      <loc>https://blog.blog.wdja.net/article/detail-3-0.html</loc>
       <lastmod>2021-12-11</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.6</priority>
@@ -110,13 +92,13 @@
     </url>
     <url>
       <loc>https://blog.blog.wdja.net/article/list-0-0.html</loc>
-      <lastmod>2022-01-25</lastmod>
+      <lastmod>2022-02-10</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.6</priority>
     </url>
     <url>
       <loc>https://blog.blog.wdja.net/picture/</loc>
-      <lastmod>2022-01-25</lastmod>
+      <lastmod>2022-02-10</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
@@ -127,20 +109,32 @@
       <priority>0.6</priority>
     </url>
     <url>
-      <loc>https://blog.blog.wdja.net/picture/detail-1-0.html</loc>
+      <loc>https://blog.blog.wdja.net/picture/list-0-0.html</loc>
+      <lastmod>2022-02-10</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.6</priority>
+    </url>
+    <url>
+      <loc>https://blog.blog.wdja.net/aboutus/</loc>
+      <lastmod>2022-02-10</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+    <url>
+      <loc>https://blog.blog.wdja.net/aboutus/detail-1.html</loc>
       <lastmod>2021-11-24</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.6</priority>
     </url>
     <url>
-      <loc>https://blog.blog.wdja.net/picture/list-0-0.html</loc>
-      <lastmod>2022-01-25</lastmod>
+      <loc>https://blog.blog.wdja.net/aboutus/list-0-0.html</loc>
+      <lastmod>2022-02-10</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.6</priority>
     </url>
     <url>
       <loc>https://blog.blog.wdja.net/pages/</loc>
-      <lastmod>2022-01-25</lastmod>
+      <lastmod>2022-02-10</lastmod>
       <changefreq>daily</changefreq>
       <priority>1</priority>
     </url>
@@ -193,12 +187,6 @@
       <priority>0.8</priority>
     </url>
     <url>
-      <loc>https://blog.blog.wdja.net/pages/detail-4-0.html</loc>
-      <lastmod>2021-12-10</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.6</priority>
-    </url>
-    <url>
       <loc>https://blog.blog.wdja.net/pages/detail-4.html</loc>
       <lastmod>2021-12-10</lastmod>
       <changefreq>daily</changefreq>
@@ -206,7 +194,7 @@
     </url>
     <url>
       <loc>https://blog.blog.wdja.net/tags/</loc>
-      <lastmod>2022-01-25</lastmod>
+      <lastmod>2022-02-10</lastmod>
       <changefreq>daily</changefreq>
       <priority>1</priority>
     </url>
@@ -215,12 +203,6 @@
       <lastmod>2021-11-24</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://blog.blog.wdja.net/tags/detail-1-0.html</loc>
-      <lastmod>2021-11-24</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.6</priority>
     </url>
     <url>
       <loc>https://blog.blog.wdja.net/tags/detail-1-0.html</loc>
@@ -237,12 +219,6 @@
     <url>
       <loc>https://blog.blog.wdja.net/tags/detail-2-0.html</loc>
       <lastmod>2021-11-24</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.6</priority>
-    </url>
-    <url>
-      <loc>https://blog.blog.wdja.net/tags/detail-2-0.html</loc>
-      <lastmod>2021-11-24</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
@@ -251,12 +227,6 @@
       <lastmod>2021-11-24</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://blog.blog.wdja.net/tags/detail-3-0.html</loc>
-      <lastmod>2021-11-24</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.6</priority>
     </url>
     <url>
       <loc>https://blog.blog.wdja.net/tags/detail-3-0.html</loc>
@@ -273,12 +243,6 @@
     <url>
       <loc>https://blog.blog.wdja.net/tags/detail-4-0.html</loc>
       <lastmod>2021-11-24</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.6</priority>
-    </url>
-    <url>
-      <loc>https://blog.blog.wdja.net/tags/detail-4-0.html</loc>
-      <lastmod>2021-11-24</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
@@ -291,12 +255,6 @@
     <url>
       <loc>https://blog.blog.wdja.net/tags/detail-5-0.html</loc>
       <lastmod>2021-11-24</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.6</priority>
-    </url>
-    <url>
-      <loc>https://blog.blog.wdja.net/tags/detail-5-0.html</loc>
-      <lastmod>2021-11-24</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
     </url>
@@ -305,12 +263,6 @@
       <lastmod>2021-11-24</lastmod>
       <changefreq>daily</changefreq>
       <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://blog.blog.wdja.net/tags/detail-6-0.html</loc>
-      <lastmod>2021-11-24</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.6</priority>
     </url>
     <url>
       <loc>https://blog.blog.wdja.net/tags/detail-6-0.html</loc>
@@ -344,14 +296,8 @@
     </url>
     <url>
       <loc>https://blog.blog.wdja.net/aboutus/contactus</loc>
-      <lastmod>2022-01-25</lastmod>
+      <lastmod>2022-02-10</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://blog.blog.wdja.net/aboutus/contactus/detail-0-0.html</loc>
-      <lastmod>2022-01-25</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.6</priority>
     </url>
 </urlset>
